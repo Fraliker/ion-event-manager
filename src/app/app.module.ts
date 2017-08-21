@@ -14,7 +14,7 @@ import { ProfileProvider } from '../providers/profile/profile';
 
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': '79332954'
+    'app_id': ''
   }
 };
 

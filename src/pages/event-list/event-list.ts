@@ -8,7 +8,9 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
  * on Ionic pages and navigation.
  */
 
-@IonicPage()
+@IonicPage({
+	name: 'event-list'
+})
 @Component({
   selector: 'page-event-list',
   templateUrl: 'event-list.html',

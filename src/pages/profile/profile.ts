@@ -8,7 +8,9 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
  * on Ionic pages and navigation.
  */
 
-@IonicPage()
+@IonicPage({
+	name: 'profile'
+})
 @Component({
   selector: 'page-profile',
   templateUrl: 'profile.html',
