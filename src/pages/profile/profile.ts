@@ -58,7 +58,7 @@ export class ProfilePage {
 				{
 					name: 'lastName',
 					placeholder: 'Your last name',
-					value: this.userProfile.lastName;
+					value: this.userProfile.lastName
 				},
 			],
 			buttons: [
