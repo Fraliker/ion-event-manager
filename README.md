@@ -1,6 +1,9 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+# My Event Manager - Ionic framework-based project for listing upcoming events.
 
-## How to use this template
+## Technology Stack
+	Ionic 3
+	Firebase 
+	Angular
 
 *This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
 
